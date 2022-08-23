@@ -3,7 +3,7 @@
   "value": {
     "key": "SokrateS",
     "chain-id": "STRIDE-TESTNET-4",
-    "rpc-addr": "http://143.244.189.163:26657",
+    "rpc-addr": "http://143.244.189.163:16657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
